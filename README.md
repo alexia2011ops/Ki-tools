@@ -1,39 +1,4 @@
 
-
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-
-    .card {
-      background: #1f2937;
-      padding: 20px;
-      margin: 15px 0;
-      border-radius: 12px;
-      transition: 0.3s;
-    }
-
-    .card:hover {
-      transform: scale(1.02);
-      background: #273449;
-    }
-
-    .button {
-      display: inline-block;
-      margin-top: 10px;
-      padding: 10px 15px;
-      background: #3b82f6;
-      color: white;
-      text-decoration: none;
-      border-radius: 8px;
-    }
-
-    footer {
-      text-align: center;
-      padding: 20px;
-      color: gray;
-    }
   </style>
 </head>
 
