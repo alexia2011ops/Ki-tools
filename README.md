@@ -94,3 +94,6 @@ footer {
   <p>Beschreibung</p>
   <a class="button" href="LINK" target="_blank">Öffnen</a>
 </div>
+<p style="text-align:center; color: gray;">
+Alle Tools sind kostenlos und von Schülern nutzbar.
+</p>
